@@ -1,5 +1,5 @@
 <div align="center">
-###`nonfetch`
+`nonfetch`
 
 
 A small utility for information about your system that works very quickly.
