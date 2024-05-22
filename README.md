@@ -1,5 +1,5 @@
 <div align="center">
-*nonfetch*
+nonfetch
 
 
 A small utility for information about your system that works very quickly.
@@ -8,4 +8,8 @@ A small utility for information about your system that works very quickly.
 
 Tested: `Linux (Ubuntu, Mint, Debian, Arch, Fedora)` ✅
 <br>
-Not supported: `MacOS`, `Windows` 
+Not currently supported: `MacOS`, `Windows`
+
+Operation speed:<br>
+`0,01s user 0,01s system 61% cpu 0,037 total`
+ 
