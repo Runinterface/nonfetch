@@ -1,8 +1,10 @@
 <div align="center">
 nonfetch
 
-
 A small utility for information about your system that works very quickly.
+
+![screen](https://raw.githubusercontent.com/Runinterface/nonfetch/main/pic/screen.png)
+
 </div>
 <br>
 
