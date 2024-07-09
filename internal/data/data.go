@@ -8,7 +8,7 @@ import (
 
 type osInfo struct {
         OS       string
-	Logo	 string
+      	Logo	   string
         Kernel   string
         CPU      string
         RAM      string
@@ -27,7 +27,7 @@ func GetOsInfo() osInfo {
 
 		infoOS.OS = osName()
 		infoOS.Logo = osLogo()
-	        infoOS.Kernel = kernelVerion()
+	  infoOS.Kernel = kernelVerion()
 		infoOS.CPU = cpuName()
 		infoOS.RAM = ramInfo()
 		infoOS.Shell = shellName()

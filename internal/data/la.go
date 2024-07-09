@@ -21,7 +21,3 @@ func laInfo() string {
         return laResult
 
 }
-
-
-
-

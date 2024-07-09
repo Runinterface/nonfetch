@@ -31,7 +31,3 @@ func uptimeInfo()  string {
 	return strconv.FormatInt(d, 10) + "d:" + strconv.FormatInt(rh, 10) + "h:"  + strconv.FormatInt(rmin, 10) + "m:"  + strconv.FormatInt(rsec, 10) + "." +  getTime[1] + "sec. "
 
 }
-
-
-
-

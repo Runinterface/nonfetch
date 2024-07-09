@@ -15,7 +15,3 @@ func initSystem() string {
         return strings.Trim(string(initInfo), "\n")
 
 }
-
-
-
-
